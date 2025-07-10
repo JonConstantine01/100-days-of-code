@@ -12,3 +12,11 @@ Events that happened in last 5 months
 - html css php ain't easy, CRUD is testing my patience.
 
 ---
+
+### Day 2: July 10, 2025
+
+**Today's Progress**: Set up a basic file structure for the blog — index, about, blog-posts. Started working on header and footer includes.
+
+**Thoughts**: Remembered how irritating it is to manage repeated elements manually. PHP includes = sanity saved.
+
+---
