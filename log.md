@@ -28,3 +28,11 @@ Events that happened in last 5 months
 **Thoughts**: Not bad. Feels good to see something visual after writing lines of div soup. Still hate CSS.
 
 ---
+
+### Day 4: July 12, 2025
+
+**Today's Progress**: Hooked up a basic MySQL database and started creating a `blog_posts` table. Inserted some test data manually via phpMyAdmin.
+
+**Thoughts**: SQL feels oddly satisfying — until you get that one syntax error that ruins everything.
+
+---
