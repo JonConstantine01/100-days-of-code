@@ -20,3 +20,11 @@ Events that happened in last 5 months
 **Thoughts**: Remembered how irritating it is to manage repeated elements manually. PHP includes = sanity saved.
 
 ---
+
+### Day 3: July 11, 2025
+
+**Today's Progress**: Built a dynamic navbar using PHP includes and some basic responsiveness with CSS. Also wrote a quick blog post manually in HTML to test layout.
+
+**Thoughts**: Not bad. Feels good to see something visual after writing lines of div soup. Still hate CSS.
+
+---
