@@ -36,3 +36,11 @@ Events that happened in last 5 months
 **Thoughts**: SQL feels oddly satisfying — until you get that one syntax error that ruins everything.
 
 ---
+
+### Day 5: July 13, 2025
+
+**Today's Progress**: Started with PHP + MySQL integration. Wrote some code to fetch blog posts from the DB and render them dynamically on the home page.
+
+**Thoughts**: Seeing dynamic content load from the database — that dopamine hit is real.
+
+---
