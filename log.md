@@ -44,3 +44,11 @@ Events that happened in last 5 months
 **Thoughts**: Seeing dynamic content load from the database — that dopamine hit is real.
 
 ---
+
+### Day 6: July 14, 2025
+
+**Today's Progress**: Created the single post view page. Clicking on a blog post now shows the full content. Routing is basic but functional.
+
+**Thoughts**: Manually writing URL parameters isn't cool — maybe I’ll explore .htaccess rewrite rules later.
+
+---
