@@ -52,3 +52,11 @@ Events that happened in last 5 months
 **Thoughts**: Manually writing URL parameters isn't cool — maybe I’ll explore .htaccess rewrite rules later.
 
 ---
+
+### Day 7: July 15, 2025
+
+**Today's Progress**: Designed a minimal theme — soft background, serif fonts, just enough spacing. Also fixed some layout glitches.
+
+**Thoughts**: Aesthetic progress makes technical frustrations feel lighter.
+
+---
