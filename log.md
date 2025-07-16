@@ -60,3 +60,11 @@ Events that happened in last 5 months
 **Thoughts**: Aesthetic progress makes technical frustrations feel lighter.
 
 ---
+
+### Day 8: July 16, 2025
+
+**Today's Progress**: Took Down, the blog progress for testing the index page, wanted some responsiveness and made css changes for it.
+
+**Thoughts**: was trying to figure ssh, as github flagged my account, had to shift to another one, ssh login is crazy, bluehost support and youtube helped me out.
+
+---
