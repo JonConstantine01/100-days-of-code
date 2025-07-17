@@ -68,3 +68,11 @@ Events that happened in last 5 months
 **Thoughts**: was trying to figure ssh, as github flagged my account, had to shift to another one, ssh login is crazy, bluehost support and youtube helped me out.
 
 ---
+
+### Day 9: July 17, 2025
+
+**Today's Progress**: spent a whole day, thinking about color code, meanwhile the responsiveness hit and was crazy in small phones and css is set for the index.
+
+**Thoughts**: Admin Pages still pending, waiting for the day to finish it, meanwhile finding peace in insert statements and create tables.
+
+---
