@@ -76,3 +76,11 @@ Events that happened in last 5 months
 **Thoughts**: Admin Pages still pending, waiting for the day to finish it, meanwhile finding peace in insert statements and create tables.
 
 ---
+
+### Day 10: July 18, 2025
+
+**Today's Progress**: Worked on about page and, projects management page, figured the logic for tables in mysql.
+
+**Thoughts**: wish i had more ram in my brain, feeling sleepy after i fail.
+
+---
