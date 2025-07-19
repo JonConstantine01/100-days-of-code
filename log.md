@@ -84,3 +84,11 @@ Events that happened in last 5 months
 **Thoughts**: wish i had more ram in my brain, feeling sleepy after i fail.
 
 ---
+
+### Day 11: July 19, 2025
+
+**Today's Progress**: Tables are set for the projects and tags, about page location php errors also fixed.
+
+**Thoughts**: Small UI improvements make a big difference. Momentum’s building.
+
+---
