@@ -92,3 +92,11 @@ Events that happened in last 5 months
 **Thoughts**: Small UI improvements make a big difference. Momentum’s building.
 
 ---
+
+### Day 12: July 20, 2025
+
+**Today's Progress**: Deployed the project in my domain using bluehost. Next step is to clean the code and complete other pages and officiate the admin pages.
+
+**Thoughts**: From nothing to working blog in 12 days — it’s slow, but steady. Gaining confidence back bit by bit.
+
+---
