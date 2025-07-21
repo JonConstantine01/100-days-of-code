@@ -100,3 +100,11 @@ Events that happened in last 5 months
 **Thoughts**: From nothing to working blog in 12 days — it’s slow, but steady. Gaining confidence back bit by bit.
 
 ---
+
+### Day 13: July 21, 2025
+
+**Today's Progress**: Working on the admin pages, meanwhile checked some open source projects and explored listmonk and on topics about creating a mailing server
+
+**Thoughts**: Easy to focus and work when someone's not breathing in your neck.
+
+---
