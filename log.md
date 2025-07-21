@@ -98,3 +98,11 @@ Events that happened in last 5 months
 **Today's Progress**: Deployed the project in my domain using bluehost. Next step is to clean the code and complete other pages and officiate the admin pages.
 
 **Thoughts**: From nothing to working blog in 12 days — it’s slow, but steady. Gaining confidence back bit by bit.
+
+---
+
+### Day 13: July 21, 2025
+
+**Today's Progress**: Working on the admin pages, meanwhile checked some open source projects and explored listmonk and on topics about creating a mailing server
+
+**Thoughts**: Easy to focus and work when someone's not breathing in your neck.
