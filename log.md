@@ -116,3 +116,11 @@ Events that happened in last 5 months
 **Thoughts**: felt like a win figuring it out but sad for the lost time.
 
 ---
+
+### Day 15: July 23, 2025
+
+**Today's Progress**: Check few contests in Codedex, its fun, but a waste of time, tried to automate github and leetcode series.
+
+**Thoughts**: Just duh! feels like being too far away.
+
+---
