@@ -106,3 +106,11 @@ Events that happened in last 5 months
 **Today's Progress**: Working on the admin pages, meanwhile checked some open source projects and explored listmonk and on topics about creating a mailing server
 
 **Thoughts**: Easy to focus and work when someone's not breathing in your neck.
+
+---
+
+### Day 14: July 22, 2025
+
+**Today's Progress**: Worked on Deploying something via heroku, thanks to github, stuck on it for 5 hours, deleted countless apps, destroyed databases, only to realize in the end, the mistake was in procfile.
+
+**Thoughts**: felt like a win figuring it out but sad for the lost time.
