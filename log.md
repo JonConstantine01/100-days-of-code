@@ -114,3 +114,11 @@ Events that happened in last 5 months
 **Today's Progress**: Worked on Deploying something via heroku, thanks to github, stuck on it for 5 hours, deleted countless apps, destroyed databases, only to realize in the end, the mistake was in procfile.
 
 **Thoughts**: felt like a win figuring it out but sad for the lost time.
+
+---
+
+### Day 15: July 23, 2025
+
+**Today's Progress**: Check few contests in Codedex, its fun, but a waste of time, tried to automate github and leetcode series.
+
+**Thoughts**: Just duh! feels like being too far away.
