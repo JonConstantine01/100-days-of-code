@@ -125,5 +125,13 @@ Events that happened in last 5 months
 
 ---
 
+### Day 16: July 24, 2025
+
+**Today's Progress**: Explored olama and tried to configure it in local.
+
+**Thoughts**: Blank today.
+
+---
+
 
 
