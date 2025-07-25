@@ -122,3 +122,11 @@ Events that happened in last 5 months
 **Today's Progress**: Check few contests in Codedex, its fun, but a waste of time, tried to automate github and leetcode series.
 
 **Thoughts**: Just duh! feels like being too far away.
+
+---
+
+### Day 16: July 24, 2025
+
+**Today's Progress**: Explore olama and tried to configure it in local.
+
+**Thoughts**: Blank today.
