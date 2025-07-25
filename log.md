@@ -133,5 +133,11 @@ Events that happened in last 5 months
 
 ---
 
+### Day 17: July 25, 2025
 
+**Today's Progress**: Successfully Built the logic for the Admin pages in php and tested the prototypes, was able to restart some codedex challenges and DSA.
+
+**Thoughts**: Waiting to finish the portfolio web.
+
+---
 
