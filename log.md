@@ -141,3 +141,9 @@ Events that happened in last 5 months
 
 ---
 
+### Day 18: July 26, 2025
+
+**Today's Progress**: Dang, forgot to login to codedex, hosted my admin pages and worked on its css, glad it worked asap after making some stupid mistakes, got it up and runnin.
+
+**Thoughts**: i am spending too much time in it, need to increase quality hours and make space for else.
+
