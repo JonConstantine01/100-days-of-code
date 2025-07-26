@@ -127,14 +127,14 @@ Events that happened in last 5 months
 
 ### Day 16: July 24, 2025
 
-**Today's Progress**: Explore olama and tried to configure it in local.
+**Today's Progress**: Explored olama and tried to configure it in local.
 
 **Thoughts**: Blank today.
 
 ---
 
-### Day 17: July 24, 2025
+### Day 17: July 25, 2025
 
-**Today's Progress**: Explore olama and tried to configure it in local.
+**Today's Progress**: Successfully Built the logic for the Admin pages in php and tested the prototypes, was able to restart some codedex challenges and DSA.
 
-**Thoughts**: Blank today.
+**Thoughts**: Waiting to finish the portfolio web.
