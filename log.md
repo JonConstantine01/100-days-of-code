@@ -149,8 +149,16 @@ Events that happened in last 5 months
 
 ---
 
-### Day 18: July 27, 2025
+### Day 19: July 27, 2025
 
 **Today's Progress**: Explored further on codedex, nothing to be surprised about, had contacted heroku support for DB Connection errors, meanwhile, explored php fundamentals on sessions and storage.
 
 **Thoughts**: Gotta Start DSA & work on my bash.
+
+---
+
+### Day 20: July 28, 2025
+
+**Today's Progress**: Working on Git and Python CLI Commands and tried to make some changes through it in the repos.
+
+**Thoughts**: Not so bad after working in command line, pretty bleak but manageable.
