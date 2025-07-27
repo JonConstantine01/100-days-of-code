@@ -147,3 +147,10 @@ Events that happened in last 5 months
 
 **Thoughts**: i am spending too much time in it, need to increase quality hours and make space for else.
 
+---
+
+### Day 18: July 27, 2025
+
+**Today's Progress**: Explored further on codedex, nothing to be surprised about, had contacted heroku support for DB Connection errors, meanwhile, explored php fundamentals on sessions and storage.
+
+**Thoughts**: Gotta Start DSA & work on my bash.
