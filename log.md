@@ -162,3 +162,11 @@ Events that happened in last 5 months
 **Today's Progress**: Working on Git and Python CLI Commands and tried to make some changes through it in the repos.
 
 **Thoughts**: Not so bad after working in command line, pretty bleak but manageable.
+
+---
+
+### Day 21: July 29, 2025
+
+**Today's Progress**: Worked on Math & git CLI, started again with fundamentals of C, gonna ace it here on.
+
+**Thoughts**: Typing in C is literally pain, well, now i get why C... Devs & Java are on demand. well, cheers to 21 days.
