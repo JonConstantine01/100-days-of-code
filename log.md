@@ -170,3 +170,11 @@ Events that happened in last 5 months
 **Today's Progress**: Worked on Math & git CLI, started again with fundamentals of C, gonna ace it here on.
 
 **Thoughts**: Typing in C is literally pain, well, now i get why C... Devs & Java are on demand. well, cheers to 21 days.
+
+---
+
+### Day 22: July 300, 2025
+
+**Today's Progress**: Command line is pretty sick, looks good for now, was just prepping for DSA in C, solved the basics gonna move to DS.
+
+**Thoughts**: Time to feed the pet in codedex, pretty dumb, but i did left unattended and the pet died, well, thats a start, gonna touch my blog as well.
