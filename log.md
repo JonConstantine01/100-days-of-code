@@ -173,8 +173,16 @@ Events that happened in last 5 months
 
 ---
 
-### Day 22: July 300, 2025
+### Day 22: July 30, 2025
 
 **Today's Progress**: Command line is pretty sick, looks good for now, was just prepping for DSA in C, solved the basics gonna move to DS.
 
 **Thoughts**: Time to feed the pet in codedex, pretty dumb, but i did left unattended and the pet died, well, thats a start, gonna touch my blog as well.
+
+---
+
+### Day 23: July 31, 2025
+
+**Today's Progress**: Did some commits and worked on DSA in C, need to do more, worked on a freelance gig related to some js issues, feels like the same day.
+
+**Thoughts**: why does it feel i live in a loop.
