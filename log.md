@@ -186,3 +186,11 @@ Events that happened in last 5 months
 **Today's Progress**: Did some commits and worked on DSA in C, need to do more, worked on a freelance gig related to some js issues, feels like the same day.
 
 **Thoughts**: why does it feel i live in a loop.
+
+---
+
+### Day 24: August 1, 2025
+
+**Today's Progress**: Um...lil late, but gonna try tomorrow, something came up.
+
+**Thoughts**: needed a break.
