@@ -202,3 +202,11 @@ Events that happened in last 5 months
 **Today's Progress**: .
 
 **Thoughts**: Blank.
+
+---
+
+### Day 26: August 3, 2025
+
+**Today's Progress**: Went through some C Projects tutorials and did some DSA.
+
+**Thoughts**: Feels too far away.
