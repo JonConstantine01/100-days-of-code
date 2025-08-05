@@ -210,3 +210,17 @@ Events that happened in last 5 months
 **Today's Progress**: Went through some C Projects tutorials and did some DSA.
 
 **Thoughts**: Feels too far away.
+
+---
+
+### Day 27: August 4, 2025
+
+**Today's Progress**: None
+**Thoughts**: Missed by one
+
+---
+
+### Day 28: August 5, 2025
+
+**Today's Progress**: Studied Math & Did some DSA, worked on a bug which was causing issue in a friends project.
+**Thoughts**: Bugs are so nice sometimes.
