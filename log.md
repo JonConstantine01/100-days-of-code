@@ -224,3 +224,16 @@ Events that happened in last 5 months
 
 **Today's Progress**: Studied Math & Did some DSA, worked on a bug which was causing issue in a friends project.
 **Thoughts**: Bugs are so nice sometimes.
+
+---
+
+### Day 29: August 6, 2025
+
+**Today's Progress**: NIL
+**Thoughts**: NIL
+---
+
+### Day 30: August 7, 2025
+
+**Today's Progress**: Did Started reworking on my portfolio terminal setup
+**Thoughts**: Restart
